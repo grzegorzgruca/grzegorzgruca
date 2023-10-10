@@ -45,7 +45,7 @@
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
 <img src="https://jwt.io/img/icon.svg" height="40" width="52" alt="jwt logo"  />
-<img src="https://github.com/devicons/devicon/tree/v2.15.1/icons/npm/npm-orginal-wordmark.svg" height="40" width="52" alt="npm logo"  />
+<img src="https://www.svgviewer.dev/static-svgs/14291/npm-icon.svg" height="40" width="52" alt="npm logo"  />
 </div>
 
 ###
