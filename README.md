@@ -42,5 +42,3 @@
 ###
 
 </div>
-
-//Credit: [shamimsikder](https://github.com/shamimsikder)
