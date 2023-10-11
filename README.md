@@ -4,9 +4,8 @@
 
 <div align="center">
 <b size="7"> Contact informations<b/>
-  <br/>
 </div>
-
+  <br/>
 
 <p align="center">
 <a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="grzegorzgruca" height="30" width="40" /></a>
@@ -17,7 +16,7 @@
 <div align="center">
 
 ## :computer: Technologies and Tools that I know
-  <br/>
+  <br/>  <br/>  <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
