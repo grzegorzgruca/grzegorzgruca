@@ -3,7 +3,8 @@
 <p align="center"><a href="https://github.com/shamimsikder"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Grzegorz+Gruca%F0%9F%91%8B;A+Self-motivated+FrontEnd+Enthusiast;Ready+for+Learning+New+Things;Love+to+Travel+and+Watch+Films" alt="SVG animated text" /></a></p>
 
 <div align="center">
-##<font size="5"> Contact informations<font/>
+<b size="7"> Contact informations<b/>
+  <br/>
 </div>
 
 
@@ -16,7 +17,7 @@
 <div align="center">
 
 ## :computer: Technologies and Tools that I know
-  
+  <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
